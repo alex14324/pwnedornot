@@ -46,7 +46,7 @@ And with all this information **pwnedOrNot** can easily find passwords for compr
 **Ubuntu / Kali Linux / Nethunter / Termux**
 
 ```bash
-git clone https://github.com/thewhiteh4t/pwnedOrNot.git
+git clone https://github.com/alex14324/pwnedOrNot.git
 cd pwnedOrNot
 pip3 install requests
 ```
@@ -112,5 +112,3 @@ python3 pwnedornot.py -c <domain name>
 python3 pwnedornot.py --check <domain name>
 ```
 
-## Demo
-[![Youtube](https://i.imgur.com/aSM6dKc.png)](https://www.youtube.com/watch?v=R_Y_QzVmERA)
